@@ -1,0 +1,7 @@
+import {
+    deployMaci,
+    deployFreeForAllSignUpGatekeeper,
+    deployer,
+    initialVoiceCreditBalance,
+) => {
+    const freeForAllSignUpGatekeeperContract 
